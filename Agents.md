@@ -1,5 +1,8 @@
 I need you to pay attention carefully to the rules provided here and I need you to read all the java files in detail and understand them completley and run them to look at the results. I need you to try to fix this Code Base and make it run using small amounts of changes and additions but do them where necessary. The output has to be correct it is the most important thing, which is why you have to test it until it is right according to what the following text wants from you. We are currently working on Aufgabe 2 which builds on the basis of Aufgabe 1 but changes some of its stuff.
 
+# Aufgabe 1 & 2 — Programmierparadigmen (TU Wien)
+
+## Aufgabe 1
 
 1.  Programmieraufgabe Programmierparadigmen LVA-Nr. 194.023 2025/2026 W
     TU Wien Kontext Bienen
@@ -285,6 +288,10 @@ sich auch mit or- ganisatorischen oder gruppeninternen Problemen, die
 Sie möglicherweise nicht selbst lösen können, an Tutor_innen zu wenden.
 Früh im Semester sind Probleme einfacher lösbar als im weit
 fortgeschrittenen Semester. 6
+
+---
+
+## Aufgabe 2
 
 2.  Programmieraufgabe Programmierparadigmen LVA-Nr. 194.023 2025/2026 W
     TU Wien Kontext Die Simulation aus der ersten Programmieraufgabe ist
